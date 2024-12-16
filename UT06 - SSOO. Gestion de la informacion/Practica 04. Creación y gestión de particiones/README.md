@@ -120,6 +120,7 @@ La calificación máxima a la que se podrá optar  dependerá de la fecha y hora
 
 2. **Entrega el mismo día (hasta las 23:59 de hoy)**:
    - **Calificación máxima**: 9,5 puntos.
+   NOTA: actualizamos esta parte ya que la entrega no estaba disponible durante las horas de clase, por lo que durante el día de hoy será hasta 10 puntos.
 
 3. **Entrega en los días posteriores**:
    - Cada **2 días** la calificación máxima baja en **1 punto** hasta llegar al mínimo de **4 puntos**, que no se reducirá más.
@@ -130,7 +131,7 @@ La calificación máxima a la que se podrá optar  dependerá de la fecha y hora
 - **21/12/2024** (hasta las 23:59): **6.5 puntos**
 - **23/12/2024** (hasta las 23:59): **5.5 puntos**
 - **25/12/2024** (hasta las 23:59): **4.0 puntos**
-
+NOTA: estas fechas y horas están correctas.
 4. **Entrega fuera de plazo mínimo**:
    - Las entregas realizadas después de la fecha de evaluación final solo recibirán el puntaje mínimo, siempre y cuando cumplan con los requisitos básicos de la práctica.
 
